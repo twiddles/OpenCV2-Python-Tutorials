@@ -16,6 +16,7 @@ Introduction to OpenCV
   .. |Intro_1| image:: images/opencv_logo.jpg
                  :height: 90pt
                  :width:  90pt
+                 :target: `Intro`_
 
 
 
@@ -32,6 +33,7 @@ Introduction to OpenCV
   .. |Install_1| image:: images/windows_logo.jpg
                  :height: 90pt
                  :width:  90pt
+                 :target: `Install-OpenCV-Python-in-Windows`_
 
 *  :ref:`Install-OpenCV-Python-in-Fedora`
 
@@ -46,6 +48,7 @@ Introduction to OpenCV
   .. |Install_2| image:: images/fedora_logo.jpg
                  :height: 90pt
                  :width:  90pt
+                 :target: `Install-OpenCV-Python-in-Fedora`_
                  
 .. raw:: latex
 
